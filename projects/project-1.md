@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/marchingband.png
 title: Marching Band
 
 # All dates must be YYYY-MM-DD format!
