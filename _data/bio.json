@@ -11,7 +11,7 @@
 
    "location": {
      "address": "",
-     "postalCode": "96822",
+     "postalCode": "96818",
      "city": "Honolulu",
      "countryCode": "USA",
      "region": "Hawaii"
@@ -48,23 +48,18 @@
      "name": "Languages and Frameworks",
      "level": "",
      "keywords": [
-       "C",
-       "C++",
+      
        "Java",
        "Javascript",
-       "Assembly",
-       "Common Lisp"
+       "SQL"
+      
      ]
    },
    {
      "name": "Toolsets/OS",
      "level": "",
      "keywords": [
-       "MacOS",
-       "Ubuntu",
-       "Git/GitHub",
-       "g++",
-       "TI LaunchPad"
+       "Git/GitHub"
      ]
    }
  ],
@@ -82,15 +77,15 @@
  ],
  "work": [
    {
-     "company": "UH Manoa Board of Publications",
-     "position": "Web Developer",
+     "company": "STAR",
+     "position": "SQL Developer",
      "website": "",
-     "startDate": "2015-08-01",
+     "startDate": "2019-09-11",
      "endDate": "Present",
-     "summary": "Head of online presence for Ka Leo",
+     "summary": "Assistant SQL Developer ",
      "highlights": [
-       "Maintain, update, and oversee official college newspaper website",
-       "Drive, design and build student-community projects for UH Manoa"
+       "Maintain, update, and oversee official college registration website"
+      
      ]
    },
    {
