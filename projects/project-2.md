@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/basketball.png
+image: images/basketball.jpg
 title: Basketball
 permalink: 
 # All dates must be YYYY-MM-DD format!
