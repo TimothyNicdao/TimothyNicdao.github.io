@@ -13,5 +13,6 @@ labels:
 
 summary: Joined a Basketball Team and Competed in tournaments.
 ---
+During middle school, I was part of a basketball team that met three times a week for practice and competed at least once every week against other teams from the island. 
 
 
