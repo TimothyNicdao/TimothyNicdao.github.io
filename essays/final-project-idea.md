@@ -14,5 +14,5 @@ An app or a web app that allows people of similar interest to meet. For example 
 
 One example page we can do is when users are grouped together for a meetup, they can all see each other’s information which will be displayed by cards. We can also allow people to add friends with people they have already met so that they can set up their own events if they wanted.
 
-Authors: Timothy Nicdao 
+Authors: Timothy Nicdao   
 Weixiao Hu
