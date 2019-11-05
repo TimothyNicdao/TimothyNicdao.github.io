@@ -3,7 +3,6 @@
 layout: essay
 type: essay
 title: 314 Project Ideas
-# All dates must be YYYY-MM-DD format!
 date: 2019-11-05
 labels:
   - Software Engineering
