@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/japan.jpg
-title: Japan Trip
+title: Healthy Manoa 
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-22
@@ -12,4 +12,6 @@ labels:
 summary: I went to Japan during the summer of 2018.
 ---
 
-During the summer of 2018, my famiy took a trip to Japan in order to experience a new cultrure. There, we ate a lot of good Japanese food from Ramen, to Sushi, to Takoyaki and deserts. We saw famous castles, Hiroshima and popular tourist attrations like the giant robot. 
+https://healthymanoa.meteorapp.com/#/
+
+Many college students have limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores, and no access to creative recipes that respect these constraints. As a result, college students spend money to eat out, or eat non-healthy foods at fast food places or through vending machines. Healthy Manoa creates a way for students (on-campus or off) to learn and share recipes that
