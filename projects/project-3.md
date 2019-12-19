@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/japan.jpg
+image: images/capture.jpg
 title: Healthy Manoa 
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-22
 labels:
-  - Japan
+  - Healthy Manoa
  
 summary: I went to Japan during the summer of 2018.
 ---
