@@ -5,11 +5,11 @@ image: images/capture.jpg
 title: Healthy Manoa 
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2018-06-22
+date: 2019-12-18
 labels:
   - Healthy Manoa
  
-summary: I went to Japan during the summer of 2018.
+summary: ICS 314 project
 ---
 
 https://healthymanoa.meteorapp.com/#/
