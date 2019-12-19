@@ -8,7 +8,6 @@ permalink: https://healthymanoa.meteorapp.com/#/
 date: 2019-12-18
 labels:
   - Healthy Manoa
- 
 summary: ICS 314 project
 ---
 
