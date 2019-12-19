@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/capture.jpg
+image: images/healthy.jpg
 title: Healthy Manoa 
 
 # All dates must be YYYY-MM-DD format!
