@@ -1,13 +1,15 @@
-
 ---
 layout: essay
 type: essay
 title: Memoir of an ICS 314 Student
+# All dates must be YYYY-MM-DD format!
 date: 2019-12-19
 labels:
   - Software Engineering Reflection
   - Software Engineering Technical Essay 
 ---
+
+
 
 By taking the class ICS 314, Software Engineering at the University of Hawaii, I have learned many things. Perhaps the most important thing I learned was functional programming. At first, I came into the class ready to learn, thinking I was a highly functioning programmer. Then we started learning functional programming and I immediately started wondering why I have never used this style of programming before. The ability to break your methods into little, reusable pieces was beautiful, almost as beautiful the skies in Hawaii or the girl in one of my classes (*wink*). I was no longer writing spaghetti code and instead, I started thinking more of how I can write functions that I can use over and over again in order to alleviate writing too much code. As a result, the code I write now is much cleaner and easier to understand, although not as delicious as spaghetti code. 
 	
