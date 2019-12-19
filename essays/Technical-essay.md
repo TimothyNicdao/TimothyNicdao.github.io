@@ -9,6 +9,8 @@ labels:
   - Software Engineering Technical Essay 
 ---
 
+
+
 By taking the class ICS 314, Software Engineering at the University of Hawaii, I have learned many things. Perhaps the most important thing I learned was functional programming. At first, I came into the class ready to learn, thinking I was a highly functioning programmer. Then we started learning functional programming and I immediately started wondering why I have never used this style of programming before. The ability to break your methods into little, reusable pieces was beautiful, almost as beautiful the skies in Hawaii or the girl in one of my classes (*wink*). I was no longer writing spaghetti code and instead, I started thinking more of how I can write functions that I can use over and over again in order to alleviate writing too much code. As a result, the code I write now is much cleaner and easier to understand, although not as delicious as spaghetti code. 
 	
 Speaking of cleaner code, another thing we learned in software engineering is code quality. For programming noobs out there who have only written a hello world program before, how your code looks actually matter (shocking!). It matters because teamwork is absolutely necessary for software engineering and if only you can understand your code, then it is meaningless. For projects, especially large scale projects, multiple people will work on the codebase and writing unreadable code is just like leaving your roommate to wash dishes. For ICS 314, we learned to use AirBnB’s code style and it worked like magic. Even now, I still don’t really know how to style my code to adhere to EsLint standards, I just type away then run a script on the console in order to fix my code and like I said, it is magic. 
