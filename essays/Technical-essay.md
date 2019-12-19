@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Memoir of an ICS 314 Student
+# All dates must be YYYY-MM-DD format!
 date: 2019-12-19
 labels:
   - Software Engineering Reflection
