@@ -41,6 +41,21 @@
      "name": "artificial intelligence",
      "keywords": [
      ]
+   },
+   {
+     "name": "Deep Learning",
+     "keywords": [
+     ]
+   },
+   {
+     "name": "Reinforcement Learning",
+     "keywords": [
+     ]
+   },
+   {
+     "name": "Finance
+     "keywords": [
+     ]
    }
  ],
  "skills": [
@@ -51,7 +66,9 @@
       
        "Java",
        "Javascript",
-       "SQL"
+       "SQL",
+       "Python",
+       "Keras"
       
      ]
    },
@@ -66,7 +83,7 @@
  "education": [
    {
      "institution": "University of Hawaii, Honolulu, HI",
-     "area": "Computer Science (expected Spring, 2021)",
+     "area": "Computer Science (Fall, 2020)",
      "studyType": "B.S.",
      "startDate": "2018-09-01",
      "endDate": "Present",
