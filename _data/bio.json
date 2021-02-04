@@ -56,7 +56,7 @@
      "name": "Finance"
      "keywords": [
      ]
-   },
+   }
  ],
  "skills": [
    {
@@ -76,7 +76,8 @@
      "name": "Toolsets/OS",
      "level": "",
      "keywords": [
-       "Git/GitHub"
+       "Git/GitHub",
+        "Ubuntu"
      ]
    }
  ],
